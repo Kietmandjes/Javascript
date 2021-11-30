@@ -20,6 +20,14 @@ h2{
     margin: 0 0 10px 0; /* top right bottom  left */
 }
 
+.paars{
+    color: purple;
+}
+
+.groen{
+    color: green;
+}
+
 button{
     padding: 10px 20px;
     background-color: lightgreen;
@@ -30,5 +38,5 @@ button{
 }
 
 button:hover{
-    background-color: rgb(27, 185, 27);
+    background-color: rgb(45, 218, 45);
 }
