@@ -1,0 +1,14 @@
+#container{
+    margin: auto;    
+    margin-left: 37vw;
+}
+
+img{
+    max-width: 500px;
+}
+
+nav{
+    position: fixed;
+    bottom: 52%;
+    left: 38%;
+}

@@ -1,0 +1,36 @@
+body{
+    background: rgb(81, 158, 202);
+}
+
+h1{
+    margin-left: 43%;
+}
+
+h2{
+    margin-left: 5%;
+}
+
+#container{
+    background: rgb(90, 209, 139);
+    width: 450px;
+    height: 470px;
+    margin: auto;
+}
+
+button{
+    background: lightslategray;
+    margin-left: 5%;
+}
+
+#myText{
+    font-size: 110%;
+    margin-left: 5%;
+}
+
+img{
+    margin-left: 5%;
+}
+
+#titles{
+    margin-left: 5%;
+}
